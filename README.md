@@ -1,0 +1,1 @@
+This repo contains a collection of Docker examples, showcasing different techniques like cerating basic Dockerfiles, optimizing builds with Golang and multistage builds, and deployin a Python wewb application. 
