@@ -1,1 +1,2 @@
-Python Web Application
+# Python Web Application
+This project sets up a Django web application using  a Dockerfile and DockerComose. The Dockerfile starts from an Ubuntu bases installs Python 3 and dependencies, sets up a virtual environment, copies your code, and runs the Django development sever. The main folder contains the docker compose file while the app folder holds you actual python code. this makes it easy to manage the app and its database together
