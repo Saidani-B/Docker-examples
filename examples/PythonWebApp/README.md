@@ -7,7 +7,7 @@ This project sets up a Django web application using  a Dockerfile and DockerComp
 ```bash
 git clone https://github.com/Saidani-B/Docker-examples.git
 cd Docker-examples
-cd FirstDockerFile
+cd PythonWebApp
 ```
 3-once you done, build and run your app by using this command
 ```bash
